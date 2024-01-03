@@ -103,9 +103,7 @@ Q(t+1)=T′Q(t)+TQ(t)′
 
 ### Procedure
 /* write all the steps invloved */
-![Screenshot 2024-01-03 054603](https://github.com/GSanthosh007/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147527586/cf9c8c69-fe0d-42de-8817-b30cc1aaca50)
-
-
+![Screenshot 2024-01-03 060134](https://github.com/GSanthosh007/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147527586/719d9241-6bbe-4bcc-9d08-f4a729a36914)
 
 ### PROGRAM 
 /*
@@ -114,57 +112,68 @@ Developed by: SANTHOSH G
 RegisterNumber:212223240152  
 */
 1.SR FLIP FLOP:
-![Screenshot 2024-01-03 054803](https://github.com/GSanthosh007/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147527586/6930e308-9c35-4c03-a063-9749baaa5a75)
+![Screenshot 2024-01-03 060255](https://github.com/GSanthosh007/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147527586/4b2fd328-3669-4bd0-b1e7-7fc488934a1e)
+
 
 2.D FLIP FLOP:
-![293019784-dc8ff246-1724-4728-b5a8-23b1ba044f4f](https://github.com/GSanthosh007/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147527586/9a0efe1a-864d-45ba-a91c-fc09b3e542c5)
+![Screenshot 2024-01-03 060312](https://github.com/GSanthosh007/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147527586/8eef2aec-2c20-451a-8673-5b058d2bef17)
+
 
 3.JK FLIP FLOP:
-![292614271-3a2c6afe-11ad-4c9a-bc05-a36a17c8aae3](https://github.com/GSanthosh007/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147527586/528a7ec1-3c08-4123-9072-93ce2dc61b32)
+![Screenshot 2024-01-03 060333](https://github.com/GSanthosh007/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147527586/25aefa6f-121d-4f15-9ca4-884f358b6af6)
+
 
 4.T FLIP FLOP:
-![292614315-7caf3430-2a03-41c4-9b63-f40a96762e8f](https://github.com/GSanthosh007/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147527586/e71f1e49-57cf-469a-97bf-458134e29be5)
+![Screenshot 2024-01-03 060401](https://github.com/GSanthosh007/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147527586/7c12405f-f6f5-4f46-ae27-f4f84b1c81b1)
+
 
 ### RTL DIAGRAM:
 SR FLIP FLOP:
-![293020298-b63f61a5-2999-4ffd-94dc-eb8845d32a88](https://github.com/GSanthosh007/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147527586/30a4c063-03ca-47ae-8abb-be5a5074611f)
+![Screenshot 2024-01-03 060428](https://github.com/GSanthosh007/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147527586/9218d98f-0f91-47cd-9c39-66e374e23deb)
 
 D FLIP FLOP:
-![292614452-428b9ef2-e40d-4d48-abfe-8deb697f0716](https://github.com/GSanthosh007/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147527586/e54b4332-d2ef-49c5-b86f-fce2ba702634)
+![Screenshot 2024-01-03 060446](https://github.com/GSanthosh007/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147527586/a337055e-3059-468f-ba8e-cb1f73595930)
+
 
 JK FLIP FLOP:
-![292614459-528e49ea-929e-494a-a9b5-15ad8683bfaf](https://github.com/GSanthosh007/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147527586/cbdb2620-aac5-413e-a0fe-8bf05ab5fbbf)
+![Screenshot 2024-01-03 060531](https://github.com/GSanthosh007/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147527586/1349a918-546f-48ce-9399-04bb1e73957d)
 
 T FLIP FLOP:
-![292614465-1e241661-059b-4c49-b5aa-5370b1332633](https://github.com/GSanthosh007/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147527586/64a2b144-0d0b-4ffb-82a3-5663a6d72373)
+![Screenshot 2024-01-03 060544](https://github.com/GSanthosh007/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147527586/403c0ea9-719c-4d27-b9da-d97b9a06a444)
+
 
 TRUTH TABLE:
 SR FLIP FLOP:
-![292614705-d9a747b0-64b8-459d-85b1-94490db192bd](https://github.com/GSanthosh007/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147527586/77c964cd-94b2-4ba9-8152-2b35b8a5b000)
+![Screenshot 2024-01-03 060618](https://github.com/GSanthosh007/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147527586/ebe7ae31-2405-413f-9c9b-b91733d36cb7)
 
 
 D FLIP FLOP:
-![292614715-4340fbea-cddf-47a4-bb55-f2ab8dfc70ba](https://github.com/GSanthosh007/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147527586/098fb761-85cb-494e-8a4e-ce9177c08882)
+![Screenshot 2024-01-03 060635](https://github.com/GSanthosh007/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147527586/b013a054-0254-4967-a3d6-b8bd0feaab82)
+
 
 JK FLIP FLOP:
-![292614697-6b90369b-4af7-4534-b3f2-f867f1508eee](https://github.com/GSanthosh007/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147527586/96f6c15e-af0f-4ec8-bd90-7c63a92350cc)
+![Screenshot 2024-01-03 060657](https://github.com/GSanthosh007/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147527586/2164d6df-7cae-4e29-a21a-3e1081c40362)
+
 
 T FLIP FLOP:
-![292614717-82891beb-b60b-4680-8c9a-f41bce517a35](https://github.com/GSanthosh007/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147527586/e0ab393c-7b75-4333-bc99-0beb45a25b7a)
+![Screenshot 2024-01-03 060715](https://github.com/GSanthosh007/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147527586/2a9fc633-9283-4e2b-9bad-c47a0d2c48e0)
+
 
 
 ### TIMING DIGRAMS FOR FLIP FLOPS 
 
 SR FLIP FLOP:
-![293020388-4de8571c-1f75-4d57-b55f-b8b5984e24c9](https://github.com/GSanthosh007/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147527586/14c48601-b4cb-43a7-876c-1574126ee46b)
+![Screenshot 2024-01-03 060741](https://github.com/GSanthosh007/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147527586/bcc7ce89-75c3-4689-b2d1-c2d8167ee601)
+
 
 D FLIP FLOP:
-![292614885-22173ffb-e3c5-423c-bc43-a40fe0c1875c](https://github.com/GSanthosh007/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147527586/c1695b1b-3bce-44a2-9f38-cd1934028205)
+![Screenshot 2024-01-03 060804](https://github.com/GSanthosh007/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147527586/885f696f-7e34-4de3-ab41-a5ef56fa7936)
 
 JK FLIP FLOP:
-![292614891-ca771aa6-d3de-4e98-9371-631dc0db53b5](https://github.com/GSanthosh007/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147527586/7099a8f2-eb49-4c72-8174-2a2ff00acb65)
+![Screenshot 2024-01-03 060819](https://github.com/GSanthosh007/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147527586/9edf2fa9-d1e9-4442-b1b3-ffdbdbf3edf5)
 
 T FLIP FLOP:
-![292614896-87a91196-6a87-4c89-ace5-5b3b624bc6fd](https://github.com/GSanthosh007/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147527586/39d2e9e3-d892-4a7a-9486-1397ae79f622)
+![Screenshot 2024-01-03 060913](https://github.com/GSanthosh007/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147527586/ca322cb8-ea8c-4288-b0b6-343dc73a58c3)
+
 ### RESULTS 
 Thus, all the FLIP FLOPS are designed and the truth tables are verified using quartus software.
